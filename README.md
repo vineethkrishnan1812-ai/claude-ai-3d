@@ -559,3 +559,4 @@ function StatChip({ value, label, color, visible, delay }) {
       transform: show ? "translateY(0)" : "translateY(30px)",
       opacity: show ? 1 : 0,
       transition: `all 0.7s cubic-bezier(0.22,1
+      
